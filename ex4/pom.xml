@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ex4</groupId>
+  <artifactId>ex4</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>ex4</name>
+  <description>ex4gftjgygugyu</description>
+  <dependencies>
+    <!-- OkHttp Dependency -->
+    <dependency>
+        <groupId>com.squareup.okhttp3</groupId>
+        <artifactId>okhttp</artifactId>
+        <version>4.9.3</version> <!-- Verifique se há uma versão mais recente -->
+    </dependency>
+    
+    <!-- Gson Dependency -->
+    <dependency>
+        <groupId>com.google.code.gson</groupId>
+        <artifactId>gson</artifactId>
+        <version>2.10.1</version> <!-- Verifique se há uma versão mais recente -->
+    </dependency>
+</dependencies>
+</project>
